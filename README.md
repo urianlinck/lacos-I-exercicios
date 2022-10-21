@@ -1,4 +1,4 @@
-# A015 - Lacos I
+# Laços I - Exercícios
 
 ### Setup do projeto no Git
 
